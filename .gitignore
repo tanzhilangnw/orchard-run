@@ -1,0 +1,6 @@
+.godot/
+OrchardRun.exe
+preview_*.png
+asset_manifest.json
+*.tmp
+
